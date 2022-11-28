@@ -1,6 +1,3 @@
-- termux-setup-storage
-- pkg remove game-repo
-- pkg remove science-repo
 - pkg update
 - apt update -y
 - apt upgrade -y
