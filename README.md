@@ -1,4 +1,4 @@
-- termux-change-repo
+- termux-change-storage
 - pkg remove game-repo
 - pkg remove science-repo
 - pkg update
