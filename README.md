@@ -1,4 +1,3 @@
-- pkg update
 - apt update -y
 - apt upgrade -y
 - pkg install git
