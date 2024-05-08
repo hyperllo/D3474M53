@@ -7,3 +7,5 @@
 - git clone https://github.com/hyperllo/D3474M53
 - cd D3474M53
 - python D3474M53.py
+
+!!!Made for informational purposes!!!
